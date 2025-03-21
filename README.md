@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">Habilidades Técnicas</h2>
+<h2 align="right">Habilidades Técnicas</h2>
 
 ###
 
