@@ -1,5 +1,4 @@
 <h1 align="center">Oi 👋, eu sou o Mateus</h1>
-<h3 align="center">Entusiasta em Ciência de Dados</h3>
 
 <p align="left">Tenho um perfil proativo, analítico, voltado a resultados, empático, com fácil relacionamento interpessoal, comunicação eficaz em equipes multidisciplinares, contribuindo para a resolução de conflitos e aumento da produtividade. Gosto de trabalhar com desafios, pensando em novas soluções.</p>
 
