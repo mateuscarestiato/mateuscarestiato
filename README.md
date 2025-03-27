@@ -1,5 +1,5 @@
-<h2 align="left">Sobre mim</h2>
-
+<h1 align="center">Hi 👋, I'm Mateus Carestiato</h1>
+<h3 align="center">Data Science enthusiast</h3>
 ###
 
 <p align="left">Tenho um perfil proativo, analítico, voltado a resultados, empático, com fácil relacionamento interpessoal, comunicação eficaz em equipes multidisciplinares, contribuindo para a resolução de conflitos e aumento da produtividade. Gosto de trabalhar com desafios, pensando em novas soluções.</p>
