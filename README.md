@@ -12,12 +12,23 @@
 
 ###
 
-<h2 align="center">Habilidades Técnicas</h2>
+<h2 align="center">Experiência</h2>
 
 ###
 
-<p align="left">◾ Possuo experiência avançada em desenvolvimento front-end e back-end, conhecimento em HTML, CSS, JavaScript, linguagens como Python, C++, Java e SQL. Minhas habilidades abrangem tanto o uso de frameworks e ferramentas de desenvolvimento de software, quanto o design de interfaces utilizando Figma, Adobe Photoshop e Illustrator.
-<br>◾ No campo de análise de dados, sou proficiente em Python, com prática no uso de bibliotecas como Pandas, NumPy, Matplotlib, Seaborn, além de ter experiência em bancos de dados, incluindo MySQL e PostgreSQL. Tenho experiência em Excel e ferramentas de BI, como Power Architect, Pentaho, Orange e Power BI, e sou hábil em elaborar dashboards e relatórios analíticos.
+<p align="left">◾ Freelancer - Outlier AI | Dez. de 2024 - Mai. de 2025.
+Atuei em tarefas envolvendo inteligência artificial:
+- Criação de prompts e respostas: elaborar instruções ou cenários para testar o comportamento da IA;
+- Avaliação de conteúdo gerado pela IA: revisar respostas, checar precisão, relevância, gramática; segurança etc.
+- Classificação e ranqueamento de respostas: ordenar como melhores ou piores.
+
+<br>◾ Estagiário - Cyrela| Jun. de 2025 - Atual.
+Atuei em tarefas envolvendo inteligência artificial:
+- Atuo na manutenção e desenvolvimento de automações utilizando as linguagens Python e SQL para criar scripts
+e programas que otimizam tarefas repetitivas, liberando tempo e recursos. Esses processos envolvem a integração
+e manipulação de diversas ferramentas, como SAP, CRM, Pipefy, Excel e Outlook. Além disso, sou responsável pela
+criação da documentação das automações, tanto para os usuários quanto para os desenvolvedores.
+
 <br>◾ Adicionalmente, possuo experiência com controle de versão utilizando Git/GitHub e com gestão e organização de projetos em ferramentas como Notion e Trello. Também sou familiarizado com metodologias ágeis, como Scrum e Kanban.</p>
 
 ###
