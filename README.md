@@ -17,13 +17,17 @@
 ###
 
 <p align="left">◾ Freelancer - Outlier AI | Dez. de 2024 - Mai. de 2025.
+  
 Atuei em tarefas envolvendo inteligência artificial:
+
 - Criação de prompts e respostas: elaborar instruções ou cenários para testar o comportamento da IA;
 - Avaliação de conteúdo gerado pela IA: revisar respostas, checar precisão, relevância, gramática; segurança etc.
 - Classificação e ranqueamento de respostas: ordenar como melhores ou piores.
 
 <br>◾ Estagiário - Cyrela| Jun. de 2025 - Atual.
+
 Atuei em tarefas envolvendo inteligência artificial:
+
 - Atuo na manutenção e desenvolvimento de automações utilizando as linguagens Python e SQL para criar scripts
 e programas que otimizam tarefas repetitivas, liberando tempo e recursos. Esses processos envolvem a integração
 e manipulação de diversas ferramentas, como SAP, CRM, Pipefy, Excel e Outlook. Além disso, sou responsável pela
