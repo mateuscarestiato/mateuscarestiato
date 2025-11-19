@@ -24,8 +24,6 @@ Atuei em tarefas envolvendo inteligência artificial:
 
 <br>◾ Estagiário - Cyrela | Jun. de 2025 - Atual.
 
-Atuei em tarefas envolvendo inteligência artificial:
-
 - Atuo na manutenção e desenvolvimento de automações utilizando as linguagens Python e SQL para criar scripts
 e programas que otimizam tarefas repetitivas, liberando tempo e recursos. Esses processos envolvem a integração
 e manipulação de diversas ferramentas, como SAP, CRM, Pipefy, Excel e Outlook. Além disso, sou responsável pela
