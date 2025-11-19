@@ -22,7 +22,7 @@ Atuei em tarefas envolvendo inteligência artificial:
 - Avaliação de conteúdo gerado pela IA: revisar respostas, checar precisão, relevância, gramática; segurança etc.
 - Classificação e ranqueamento de respostas: ordenar como melhores ou piores.
 
-<br>◾ Estagiário - Cyrela| Jun. de 2025 - Atual.
+<br>◾ Estagiário - Cyrela | Jun. de 2025 - Atual.
 
 Atuei em tarefas envolvendo inteligência artificial:
 
