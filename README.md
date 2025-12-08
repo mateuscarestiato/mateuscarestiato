@@ -33,15 +33,27 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mateuscarestiato&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false&order=1" height="170" alt="stats graph" />
+### 🧾 Resumo do Perfil
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateuscarestiato&theme=tokyonight" alt="summary" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mateuscarestiato&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="170" alt="languages graph"/>
+### 🧰 Linguagens Mais Usadas
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateuscarestiato&theme=tokyonight" alt="languages" />
 
-  <br>
+### ⏰ Horário de Maior Produtividade
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mateuscarestiato&theme=tokyonight&utcOffset=-3" alt="productive time" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateuscarestiato&radius=16&theme=tokyo-night&area=true&order=5&hide_border=false&hide_title=false" height="300" alt="activity-graph graph" />
+### 🏅 Nível & Estatísticas Gerais
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateuscarestiato&theme=tokyonight" alt="stats" />
 
 </div>
+
+---
+
+## 🐍 Snake dos Commits
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mateuscarestiato/mateuscarestiato/output/github-snake-dark.svg" alt="snake game"/>
+</p>
 
 ---
 
@@ -76,7 +88,6 @@ Atuei em tarefas envolvendo inteligência artificial:
 ## 🧩 XP Gains & Progress
 
 ```diff
-
 + Automação de processos (RPA)
 + Engenharia de dados
 + Inteligência Artificial aplicada
