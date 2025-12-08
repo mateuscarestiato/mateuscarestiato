@@ -1,4 +1,4 @@
-<p align="left">Atualmente no meu penúltimo período de Ciência de Dados e Inteligência Artificial. Tenho um perfil proativo, empático, analítico, pensando em resultados, com bom relacionamento interpessoal, contribuindo para a resolução de conflitos e aumento da produtividade. Gosto de trabalhar com desafios, pensando em novas soluções.</p>
+<p align="left">Atualmente no meu penúltimo período de Ciência de Dados e Inteligência Artificial. Tenho um perfil proativo, empático, analítico, pensando em resultados e gosto de trabalhar em equipe. Gosto de trabalhar com desafios, pensando em novas soluções.</p>
 
 ###
 
