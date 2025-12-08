@@ -49,14 +49,6 @@
 
 ---
 
-## 🐍 Snake dos Commits
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mateuscarestiato/mateuscarestiato/output/github-snake-dark.svg" alt="snake game"/>
-</p>
-
----
-
 ## 🧪 Experiência
 
 ### 💼 Freelancer - Outlier AI | Dez. 2024 - Mai. 2025
