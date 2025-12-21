@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=38bdf8&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Mateus+Carestiato!;Cientista+de+Dados+em+evolução;IA,+Automação,+Insights+e+Resultados!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=38bdf8&center=true&vCenter=true&width=800&lines=Olá,+eu+sou+Mateus+Carestiato!;Cientista+de+Dados;IA,+Automação,+Insights+e+Resultados!" />
 </p>
 
 ---
