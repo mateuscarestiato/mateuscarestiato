@@ -6,9 +6,39 @@
 
 ## 🧠 Sobre mim
 
-> 🎓 Atualmente no meu **penúltimo período de Ciência de Dados e Inteligência Artificial**  
-> 👥 Tenho um perfil **proativo, empático e analítico**, orientado a resultados  
-> 🧩 Gosto de trabalhar em equipe e enfrentar desafios, buscando **novas soluções** e aprendizados  
+Sou graduando em Ciência de Dados e Inteligência Artificial pelo IBMEC, com sólida formação em análise de dados, modelagem estatística e desenvolvimento de soluções baseadas em Machine Learning.
+
+Ao longo da graduação, desenvolvi projetos completos envolvendo:
+
+📊 Análise e Tratamento de Dados
+Python (Pandas, NumPy), SQL, Power BI, ETL, Data Cleaning, Data Wrangling, Modelagem Star Schema, Engenharia de Dados, Feature Engineering.
+
+📈 Visualização e Business Intelligence
+Power BI (DAX, Modelagem Dimensional, KPIs, Dashboards Executivos), Storytelling com Dados, Métricas de Negócio, Indicadores de Performance.
+
+🤖 Machine Learning & IA
+Scikit-Learn, Regressão, Classificação, Clusterização, Validação Cruzada, Métricas de Avaliação (Accuracy, Precision, Recall, F1-Score, ROC), Modelos Preditivos, Machine Learning Federado, Ajuste de Hiperparâmetros.
+
+🗄️ Banco de Dados & Engenharia
+SQL (modelagem relacional, consultas avançadas), ETL com Pentaho, preparação e transformação de dados, integração de múltiplas fontes.
+
+☁️ Ferramentas & Tecnologias
+Python, Jupyter Notebook, Power BI, SQL, Git/GitHub, Excel, Selenium, RPA.
+
+Tenho forte capacidade analítica, pensamento estruturado e orientação a dados. Busco sempre conectar análise técnica com impacto real no negócio.
+
+💡 Soft Skills
+
+✔ Pensamento crítico
+✔ Comunicação clara de insights técnicos para público não técnico
+✔ Mentalidade orientada a resultados
+✔ Aprendizado contínuo
+✔ Organização e disciplina em projetos
+
+Se você procura alguém com forte base técnica, visão estratégica e capacidade de transformar dados em decisões inteligentes, vamos conversar.
+
+Conecte-se comigo: 
+(21) 99751-7391 | mateuspcdaniel@gmail.com
 
 ---
 
@@ -63,9 +93,9 @@ Atuei em tarefas envolvendo inteligência artificial:
 
 ### 💼 Estagiário - Cyrela | Jun. 2025 - Atual
 
-- Atuo na manutenção e desenvolvimento de automações utilizando **Python e SQL**, criando scripts e programas que otimizam tarefas repetitivas  
-- Integração e manipulação de ferramentas como **SAP, CRM, Pipefy, Excel e Outlook**  
-- Criação de documentação das automações, tanto para **usuários quanto para desenvolvedores**
+- Atuo na manutenção e desenvolvimento de novas automações de processos (RPA) utilizando a linguagem Python para criar scripts e programas que otimizam tarefas repetitivas, otimizando tempo e recursos. Esses processos também envolvem a integração e manipulação de diversas ferramentas, como SQL, Power BI, SAP, Microsoft CRM, Pipefy, Excel e Outlook. Sou responsável pela criação da documentação das automações, tanto para os usuários quanto para os desenvolvedores. 
+
+- Além disso, atuo na área de Business Intelligence (BI), sendo responsável por transformar dados em informações estratégicas para apoiar a tomada de decisão da empresa. Desenvolvo, modelo e mantenho dashboards, relatórios e indicadores de desempenho (KPIs), garantindo a qualidade, consistência e confiabilidade dos dados.
 
 ---
 
