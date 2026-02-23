@@ -30,9 +30,13 @@ Tenho forte capacidade analítica, pensamento estruturado e orientação a dados
 💡 Soft Skills
 
 ✔ Pensamento crítico
+
 ✔ Comunicação clara de insights técnicos para público não técnico
+
 ✔ Mentalidade orientada a resultados
+
 ✔ Aprendizado contínuo
+
 ✔ Organização e disciplina em projetos
 
 Se você procura alguém com forte base técnica, visão estratégica e capacidade de transformar dados em decisões inteligentes, vamos conversar.
