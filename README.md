@@ -98,10 +98,11 @@ Com uma mentalidade analítica e orientada a resultados, possuo experiência pr�
 ## 📈 Estatísticas de Contribuição
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateuscarestiato&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateuscarestiato&theme=tokyonight" alt="Perfil" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscarestiato&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" width="48%" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscarestiato&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Langs" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateuscarestiato&theme=tokyonight" alt="Linguagens" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateuscarestiato&theme=tokyonight" alt="Estatísticas" width="48%" />
 </div>
 
 <p align="center">
