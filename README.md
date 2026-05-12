@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&height=80&lines=Olá,+eu+sou+Mateus+Carestiato!;Cientista+%26+Engenheiro+de+Dados;Especialista+em+IA,+BI+e+Automação;Transformando+dados+em+decisões+estratégicas!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&height=80&lines=Hi,+I'm+Mateus+Carestiato!;Data+Engineer+%26+RPA+Developer;Databricks+%7C+dbt+%7C+Power+BI+%7C+Python;Turning+Data+into+Strategic+Decisions!" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🔍 Transformando a complexidade dos dados em inteligência de negócios.</h3>
+<h3 align="center">🏗️ Building data pipelines and automations that drive real business impact.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mateuscarestiato" target="_blank">
@@ -18,37 +18,60 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## 👨‍💻 About Me
 
-Sou um profissional com foco afiado em **Ciência de Dados, Engenharia de Dados e Automação (RPA)**. Atualmente graduando em Ciência de Dados e Inteligência Artificial pelo IBMEC, construo soluções robustas que automatizam rotinas, otimizam recursos e geram *insights* preditivos para o negócio.
+Data Engineer & RPA Developer currently interning at **Cyrela** — one of Brazil's largest real estate companies — where I build intelligent automation pipelines and end-to-end data solutions that support executive decision-making.
 
-Com uma mentalidade analítica e orientada a resultados, possuo experiência prática no desenvolvimento de fluxos de ponta a ponta: desde a extração e integração de sistemas legados e APIs, até a modelagem no Lakehouse e criação de dashboards executivos.
+With a hands-on approach, I work across the full data stack: from API integrations and legacy system connectors to Lakehouse architecture and executive-level dashboards in Power BI.
 
-🎯 **Meu Objetivo:** Integrar times de alto desempenho em projetos reais onde eu possa aplicar tecnologia para gerar valor estratégico, escalabilidade e inovação, com foco voltado à Engenharia e Ciência de Dados.
-
----
-
-## 💼 Experiência Profissional
-
-### 🏢 **Cyrela** | *Estagiário - Automação (RPA) & Business Intelligence*
-*(Jun. 2025 – Atual)*
-- **Automação (RPA) & Python:** Desenvolvimento de scripts para padronização de rotinas de negócio e integração de dados via APIs, conectando plataformas como *Pipefy, Microsoft CRM, SAP, Outlook* e *Excel*. Redução significativa de tempo gasto em tarefas operacionais.
-- **Engenharia de Dados:** Criação de catálogos e migração de tabelas em arquitetura Lakehouse (**Databricks**) utilizando **dbt** e **SQL**.
-- **Business Intelligence (BI):** Transformação de dados brutos em inteligência gerencial. Construção, modelagem e manutenção de dashboards estratégicos em **Power BI** para acompanhamento de KPIs essenciais da companhia.
-
-### 🤖 **Outlier AI** | *Freelancer - AI Evaluation & Prompt Engineering*
-*(Dez. 2024 – Mai. 2025)*
-- Atuação direta no aprimoramento de sistemas de Inteligência Artificial Generativa e *Human-in-the-Loop*.
-- Elaboração de cenários de teste (*prompts* complexos) e avaliação crítica das respostas geradas por LLMs, garantindo qualidade, segurança (*alignment*) e total aderência às diretrizes globais da empresa.
+- 🔭 **Currently working on:** ETL pipelines in **Databricks + dbt** and RPA automations integrating SAP, Microsoft CRM, Pipefy & Outlook
+- 🌱 **Learning:** Analytics Engineering, MLOps, LLM Fine-Tuning & Agents
+- 🤖 **Background in:** Computer Vision, Reinforcement Learning, Generative AI evaluation (RLHF)
+- 🏆 **3x Oracle Certified** | Azure AZ-900 | GitHub Foundations | 4x Databricks Certified
+- 🌍 **Fluent English** | Based in Rio de Janeiro, Brazil
+- 🎯 **Open to:** Data Engineering, Analytics Engineering, RPA & BI roles
 
 ---
 
-## 🚀 Tech Stack & Ferramentas
+## 💼 Professional Experience
+
+### 🏢 **Cyrela** | *RPA & Business Intelligence Intern*
+*(Jun. 2025 – Present)*
+
+- **RPA & Python Automation:** Developed scripts that reduced critical back-office process time by **87%** (from 15 min to 2 min per operation), integrating Pipefy, Microsoft CRM, SAP, Outlook and Excel via APIs.
+- **Data Engineering:** Built data catalogs and migrated tables into a Lakehouse architecture on **Databricks** using **dbt** and **SQL**, enabling scalable, governed data consumption.
+- **Business Intelligence:** Designed and maintained strategic **Power BI** dashboards tracking essential company KPIs, used by leadership across Commercial, Legal and Post-Sales departments.
+
+### 🤖 **Outlier AI** | *Freelancer — AI Evaluation & Prompt Engineering*
+*(Dec. 2024 – May 2025)*
+
+- Worked directly on the quality improvement of Generative AI systems through **Human-in-the-Loop (RLHF)** evaluation.
+- Designed complex prompt-based test scenarios and critically evaluated LLM outputs for quality, safety (alignment), and adherence to global content guidelines.
+
+---
+
+## 🚀 Featured Projects
+
+### 🌦️ Weather Image Classifier
+> CNN with **Transfer Learning (EfficientNetB0)** for meteorological image classification. Achieved high accuracy in distinguishing weather conditions from real-world photos.
+
+`Python` `TensorFlow` `Keras` `Computer Vision` `Transfer Learning`
+
+---
+
+### 🛒 Order Management API
+> RESTful API built with **Node.js and MongoDB** following a layered architecture with Data Mapping pattern. Full CRUD for order lifecycle management.
+
+`Node.js` `MongoDB` `REST API` `Backend` `Architecture Patterns`
+
+---
+
+## 🚀 Tech Stack & Tools
 
 <table align="center">
   <tr>
     <td align="center" width="33%">
-      <h3>🐍 Linguagens & Core</h3>
+      <h3>🐍 Languages & Core</h3>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
       <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -56,7 +79,7 @@ Com uma mentalidade analítica e orientada a resultados, possuo experiência pr�
       <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <h3>☁️ Engenharia & Cloud</h3>
+      <h3>☁️ Data Engineering & Cloud</h3>
       <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" />
       <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white" />
       <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
@@ -64,7 +87,7 @@ Com uma mentalidade analítica e orientada a resultados, possuo experiência pr�
       <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
     </td>
     <td align="center" width="33%">
-      <h3>📊 BI & Automação</h3>
+      <h3>📊 BI & Automation</h3>
       <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
       <img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white" />
       <img src="https://img.shields.io/badge/Salesforce-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
@@ -76,35 +99,38 @@ Com uma mentalidade analítica e orientada a resultados, possuo experiência pr�
 
 ---
 
-## 🎓 Educação & Certificações
+## 🎓 Education & Certifications
 
-**Formação Acadêmica:**
-- 🏛️ **IBMEC** | *Graduação em Ciência de Dados e Inteligência Artificial* (2023.2 – Atual)
-- 🏛️ **PUC-Rio** | *Graduação* (2022.1 – 2023.1)
-- 🗣️ **BRASAS** | *Inglês Fluente* (2013 – 2020)
+**Academic Background:**
+- 🏛️ **IBMEC** | *B.Sc. in Data Science & Artificial Intelligence* (2023 – Present)
+- 🗣️ **BRASAS English School** | *Fluent English* (2013 – 2020)
 
-**Certificações de Mercado:**
+**Industry Certifications:**
 - 🔹 **Databricks:** *AI Agent Fundamentals* | *Data Governance Fundamentals* | *Databricks Fundamentals* | *Prompt Engineering*
 - 🔹 **Microsoft:** *Azure Fundamentals (AZ-900)* | *GitHub Foundations*
 - 🔹 **Oracle:** *OCI Certified Foundations Associate* | *OCI Certified AI Foundations Associate* | *Java Foundations*
 - 🔹 **AWS:** *AWS Educate Machine Learning Foundations*
 
-**Reconhecimento & Extras:**
-- 🏅 **Medalha de Honra ao Mérito** | Olimpíada Internacional Canguru de Matemática (2021)
-- 🤝 **Voluntariado Missionário** | Apoio a moradores de rua e crianças carentes, Paróquia N.S. Copacabana (2023)
+**Recognition:**
+- 🏅 **Medal of Academic Merit** | International Kangaroo Mathematics Olympiad (2021)
+- 🤝 **Volunteer Work** | Support for homeless individuals and underprivileged children, Parish N.S. Copacabana (2023)
 
 ---
 
-## 📈 Estatísticas de Contribuição
+## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateuscarestiato&theme=tokyonight" alt="Perfil" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscarestiato&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" width="48%" />
-  <br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateuscarestiato&theme=tokyonight" alt="Linguagens" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateuscarestiato&theme=tokyonight" alt="Estatísticas" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateuscarestiato&theme=tokyonight" alt="Profile Details" width="70%" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscarestiato&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateuscarestiato&theme=tokyonight" alt="Stats" width="48%" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateuscarestiato&theme=tokyonight" alt="Languages per Repo" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mateuscarestiato&theme=tokyonight" alt="Most Used Languages" width="48%" />
 </div>
 
+---
+
 <p align="center">
-  <i>"A paixão pela tecnologia guiando o caminho para soluções inovadoras."</i>
+  <i>Open to new opportunities — let's build something great together.</i>
 </p>
