@@ -52,17 +52,45 @@ With a hands-on approach, I work across the full data stack: from API integratio
 
 ## 🚀 Featured Projects
 
-### 🌦️ Weather Image Classifier
-> CNN with **Transfer Learning (EfficientNetB0)** for meteorological image classification. Achieved high accuracy in distinguishing weather conditions from real-world photos.
-
-`Python` `TensorFlow` `Keras` `Computer Vision` `Transfer Learning`
+### 🤖 Detecção de Celulares e Classificação de Risco em Tempo Real — YOLOv8
+> Sistema de visão computacional para detecção de telefones em webcam em tempo real com classificação automática de situações de risco (SAFE / THREAT). Pipeline ponta a ponta com treinamento YOLOv8n, filtro anti-flicker e exportação ONNX.
+`Python` `YOLOv8` `OpenCV` `ONNX`
+[View Project](https://github.com/mateuscarestiato/Deteccao-Celulares-YOLOv8)
 
 ---
 
-### 🛒 Order Management API
-> RESTful API built with **Node.js and MongoDB** following a layered architecture with Data Mapping pattern. Full CRUD for order lifecycle management.
+### 💱 Plataforma de Exchange de Moedas — Cloud & CI/CD
+> Aplicação Spring Boot para compra/venda de moedas com deploy em nuvem, pipeline CI/CD via GitHub Actions e containerização com Docker. Inclui relatórios analíticos integrados ao Power BI.
+`Java` `Spring Boot` `Docker` `GitHub Actions` `AWS/Cloud` `Power BI`
+[View Project](https://github.com/mateuscarestiato/Plataforma-Exchange-Cloud)
 
-`Node.js` `MongoDB` `REST API` `Backend` `Architecture Patterns`
+---
+
+### 🧠 Reinforcement Learning — CliffWalking-v1
+> Estudo comparativo de 6 algoritmos de RL (Monte Carlo, SARSA, Q-Learning, DQN) com análise estatística de convergência e modelagem formal de MDP. Acompanhado de artigo científico documentando a metodologia.
+`Python` `PyTorch` `Gymnasium` `Reinforcement Learning`
+[View Project](https://github.com/mateuscarestiato/RL_Cliff_Walking-v1)
+
+---
+
+### 📱 Detecção de Spam em SMS com RNN
+> Classificador de texto com RNN (LSTM/GRU) sobre o dataset UCI SMS Spam. Pipeline completo de NLP com limpeza, tokenização e embedding. Acurácia de **98,1%**.
+`Python` `TensorFlow` `NLTK` `NLP` `Deep Learning`
+[View Project](https://github.com/mateuscarestiato/Deteccao-Spam-em-SMS)
+
+---
+
+### 🌦️ Classificação de Imagens Meteorológicas
+> Modelo de visão computacional com Transfer Learning (EfficientNetB0) para classificação de condições climáticas com data augmentation e fine-tuning seletivo.
+`Python` `TensorFlow` `Keras` `Computer Vision` `EfficientNet`
+[View Project](https://github.com/mateuscarestiato/Classificacao_Imagens_Meteorologicas)
+
+---
+
+### 🛒 API de Gerenciamento de Pedidos
+> API REST com arquitetura em camadas e CRUD completo, utilizando o padrão **Data Mapping** para desacoplamento entre camadas técnica e de negócio.
+`Node.js` `Express` `MongoDB` `REST API` `Backend`
+[View Project](https://github.com/mateuscarestiato/API_Gerenciamento_De_Pedidos)
 
 ---
 
@@ -120,7 +148,9 @@ With a hands-on approach, I work across the full data stack: from API integratio
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mateuscarestiato&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mateuscarestiato&theme=tokyonight&no-bg=true&margin-w=4" alt="Trophies" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=mateuscarestiato&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscarestiato&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscarestiato&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
