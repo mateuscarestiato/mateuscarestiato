@@ -150,7 +150,7 @@ With a hands-on approach, I work across the full data stack: from API integratio
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mateuscarestiato&theme=tokyonight&no-bg=true&margin-w=4" alt="Trophies" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=mateuscarestiato&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mateuscarestiato&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscarestiato&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscarestiato&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
