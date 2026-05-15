@@ -120,13 +120,11 @@ With a hands-on approach, I work across the full data stack: from API integratio
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateuscarestiato&theme=tokyonight" alt="Profile Details" width="70%" />
-  <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscarestiato&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateuscarestiato&theme=tokyonight" alt="Stats" width="48%" />
-  <br><br>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateuscarestiato&theme=tokyonight" alt="Languages per Repo" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mateuscarestiato&theme=tokyonight" alt="Most Used Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mateuscarestiato&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuscarestiato&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mateuscarestiato&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mateuscarestiato&theme=tokyonight&hide_border=true&area=true" alt="Activity Graph" width="48%" />
 </div>
 
 ---
